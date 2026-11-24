@@ -8,7 +8,7 @@ Academia de programación **libre, gratuita y de código abierto**, en español.
 
 | Repositorio | Qué es | Versión |
 |---|---|---|
-| [**myopenacademy**](https://github.com/santi-cast/myopenacademy) | La academia: la plataforma donde se instalan y se estudian los cursos (Spring Boot, React, PostgreSQL y Docker Compose) | 1.0.0 |
+| [**myopenacademy**](https://github.com/santi-cast/myopenacademy) | La academia: la plataforma donde se instalan y se estudian los cursos (Spring Boot, React, PostgreSQL y Docker Compose) | 1.1.0 |
 | [**curso-inicial**](https://github.com/myopenacademy/curso-inicial) | «Fundamentos para programar»: lo que conviene saber antes de cualquier curso. Viene instalado con la academia | 1.0.0 |
 | [**kit-cursos**](https://github.com/myopenacademy/kit-cursos) | El contrato de formato ([`FORMATO.md`](https://github.com/myopenacademy/kit-cursos/blob/main/FORMATO.md)), las plantillas y las herramientas para escribir y comprobar un curso | 1.1.0 |
 | [**proyecto**](https://github.com/myopenacademy/proyecto) | La planificación común: el plan, las decisiones y el estado de todo | — |
